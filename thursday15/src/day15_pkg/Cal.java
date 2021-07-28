@@ -17,7 +17,7 @@ public class Cal {
 		return  a / b;
 		
 	}
-	
+	sdfsdfsdxcc
 //	int div() {
 //		Scanner scan=new Scanner(System.in);
 //		System.out.println("숫자1:");
